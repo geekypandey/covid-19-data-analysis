@@ -1,2 +1,5 @@
 # covid-19-data-analysis
-Data-pipeline for extracting data from Situation Reports from WHO 
+This repo conatins :
+- Data-pipeline for extracting data from Situation Reports from WHO official site.
+- web-app for graphs using the extracted data.
+

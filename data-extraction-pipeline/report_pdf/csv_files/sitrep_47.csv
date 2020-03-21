@@ -1,0 +1,207 @@
+,0,1,2,3,4,5,6
+0,"Province/  
+Region/  
+City","Population 
+(10,000s)",In last 24 hours,,,Cumulative,
+1,,,"Confirmed 
+cases","Suspected 
+cases",Deaths,"Confirmed 
+cases",Deaths
+2,Hubei,5917,74,47,28,67666,2959
+3,Guangdong,11346,1,0,0,1352,7
+4,Henan,9605,0,0,0,1272,22
+5,Zhejiang,5737,0,0,0,1215,1
+6,Hunan,6899,0,0,0,1018,4
+7,Anhui,6324,0,0,0,990,6
+8,Jiangxi,4648,0,0,0,935,1
+9,Shandong,10047,0,0,0,758,6
+10,Jiangsu,8051,0,0,0,631,0
+11,Chongqing,3102,0,4,0,576,6
+12,Sichuan,8341,0,0,0,539,3
+13,Heilongjiang,3773,0,0,0,481,13
+14,Beijing,2154,4,13,0,426,8
+15,Shanghai,2424,3,16,0,342,3
+16,Hebei,7556,0,0,0,318,6
+17,Fujian,3941,0,0,0,296,1
+18,Guangxi,4926,0,0,0,252,2
+19,Shaanxi,3864,0,0,0,245,1
+20,Yunnan,4830,0,0,0,174,2
+21,Hainan,934,0,0,0,168,6
+22,Guizhou,3600,0,0,0,146,2
+23,Tianjin,1560,0,12,0,136,3
+24,Shanxi,3718,0,0,0,133,0
+25,Liaoning,4359,0,4,0,125,1
+26,Gansu,2637,17,0,0,119,2
+27,Hong Kong SAR,745,3,0,0,107,2
+28,Jilin,2704,0,3,0,93,1
+29,Xinjiang,2487,0,0,0,76,3
+30,Inner Mongolia,2534,0,0,0,75,1
+31,Ningxia,688,0,0,0,75,0
+32,Taipei and environs,2359,0,0,0,45,1
+33,Qinghai,603,0,0,0,18,0
+34,Macao SAR,66,0,0,0,10,0
+35,Xizang,344,0,0,0,1,0
+36,Total,142823,102,99,28,80813,3073
+,0,1,2,3,4,5,6
+0,"Total 
+Total 
+Total 
+Days since 
+Reporting Country/ 
+Total 
+Transmission 
+confirmed‡ 
+confirmed 
+new 
+last reported 
+Territory/Area† 
+deaths 
+classification§ 
+cases 
+new cases 
+deaths 
+case",,,,,,
+1,Western Pacific Region,,,,,,
+2,Republic of Korea,6767,483,44,2,Local transmission,0
+3,Japan,408,59,6,0,Local transmission,0
+4,Singapore,130,13,0,0,Local transmission,0
+5,Malaysia,83,28,0,0,Local transmission,1
+6,Australia,62,5,2,0,Local transmission,0
+7,Viet Nam,17,1,0,0,Local transmission,0
+8,New Zealand,5,1,0,0,Local transmission,0
+9,Philippines,5,0,1,0,Local transmission,1
+10,Cambodia,1,0,0,0,Imported cases only,39
+11,European Region,,,,,,
+12,Italy,4636,778,197,49,Local transmission,0
+13,Germany,639,105,0,0,Local transmission,0
+14,France,613,193,9,3,Local transmission,0
+15,Spain,374,117,5,2,Local transmission,0
+16,Switzerland,209,123,1,0,Local transmission,0
+17,The United Kingdom,167,49,1,1,Local transmission,0
+18,Sweden,137,76,0,0,Local transmission,0
+19,Netherlands,128,46,1,1,Local transmission,0
+20,Norway,113,27,0,0,Local transmission,0
+21,Belgium,109,59,0,0,Local transmission,0
+22,Austria,66,19,0,0,Imported cases only,0
+23,Iceland,45,19,0,0,Local transmission,0
+24,Greece,32,0,0,0,Local transmission,2
+25,San Marino,24,3,0,0,Local transmission,0
+26,Denmark,23,5,0,0,Local transmission,0
+27,Finland,19,7,0,0,Local transmission,0
+28,Israel,19,4,0,0,Local transmission,0
+29,Ireland,18,4,0,0,Local transmission,0
+30,Portugal,13,4,0,0,Local transmission,0
+31,Czechia,12,0,0,0,Local transmission,1
+32,Croatia,11,1,0,0,Local transmission,0
+33,Estonia,10,7,0,0,Imported cases only,0
+34,Azerbaijan,9,6,0,0,Imported cases only,0
+35,Georgia,9,0,0,0,Imported cases only,1
+36,Slovenia,9,3,0,0,Local transmission,0
+37,Romania,7,1,0,0,Local transmission,0
+38,Russian Federation,7,3,0,0,Imported cases only,0
+39,Belarus,6,0,0,0,Local transmission,2
+40,Poland,5,4,0,0,Imported cases only,0
+41,Hungary,5,3,0,0,Imported cases only,0
+42,North Macedonia,3,2,0,0,Imported cases only,0
+43,"Bosnia and 
+Herzegovina",2,0,0,0,Local transmission,2
+44,Luxembourg,2,1,0,0,Imported cases only,0
+45,Andorra,1,0,0,0,Imported cases only,4
+46,Armenia,1,0,0,0,Imported cases only,5
+47,Holy See,1,1,0,0,Under investigation,1
+,0,1,2,3,4,5,6
+0,Latvia,1,0,0,0,Imported cases only,4
+1,Liechtenstein,1,0,0,0,Imported cases only,1
+2,Lithuania,1,0,0,0,Imported cases only,8
+3,Monaco,1,0,0,0,Under investigation,6
+4,Serbia,1,0,0,0,Under investigation,1
+5,Slovakia,1,1,0,0,Local transmission,0
+6,Ukraine,1,0,0,0,Imported cases only,3
+7,Territories**,,,,,,
+8,"Gibraltar 
+1 
+0 
+0 
+0 
+Under investigation 
+3",,,,,,
+9,South-East Asia Region,,,,,,
+10,Thailand,48,1,1,0,Local transmission,0
+11,India,31,1,0,0,Local transmission,0
+12,Indonesia,2,0,0,0,Local transmission,5
+13,Bhutan,1,0,0,0,Imported cases only,1
+14,Nepal,1,0,0,0,Imported cases only,43
+15,Sri Lanka,1,0,0,0,Imported cases only,40
+16,Eastern Mediterranean Region,,,,,,
+17,"Iran (Islamic 
+Republic of)",4747,1234,124,17,Local transmission,0
+18,Kuwait,58,0,0,0,Imported cases only,2
+19,Bahrain,49,0,0,0,Imported cases only,4
+20,"United Arab 
+Emirates",45,18,0,0,Local transmission,0
+21,Iraq,44,8,4,2,Imported cases only,0
+22,Lebanon,22,6,0,0,Local transmission,0
+23,Oman,16,0,0,0,Imported cases only,1
+24,Qatar,11,3,0,0,Imported cases only,0
+25,Saudi Arabia,8,0,0,0,Imported cases only,1
+26,Pakistan,5,0,0,0,Imported cases only,4
+27,Egypt,3,0,0,0,Imported cases only,1
+28,Morocco,2,0,0,0,Imported cases only,2
+29,Afghanistan,1,0,0,0,Imported cases only,12
+30,Jordan,1,0,0,0,Imported cases only,4
+31,Tunisia,1,0,0,0,Imported cases only,4
+32,Territories**,,,,,,
+33,"Occupied 
+16 
+9 
+0 
+0 
+Local transmission 
+0 
+Palestinian Territory",,,,,,
+34,Region of the Americas,,,,,,
+35,"United States of 
+America",213,65,11,1,Local transmission,0
+36,Canada,51,6,0,0,Local transmission,0
+37,Ecuador,14,1,0,0,Local transmission,0
+38,Brazil,13,6,0,0,Local transmission,0
+39,Chile,5,4,0,0,Imported cases only,0
+40,Mexico,5,0,0,0,Imported cases only,5
+41,Argentina,2,1,0,0,Imported cases only,0
+42,Colombia,1,1,0,0,Imported cases only,0
+43,Dominican Republic,1,0,0,0,Imported cases only,5
+44,Peru,1,1,0,0,Imported cases only,0
+45,Territories**,,,,,,
+46,"Saint Martin 
+2 
+0 
+0 
+0 
+Under investigation 
+4",,,,,,
+47,"Saint Barthelemy 
+1 
+0 
+0 
+0 
+Under investigation 
+4",,,,,,
+48,African Region,,,,,,
+,0,1,2,3,4,5,6
+0,Algeria,17,5,0,0,Local transmission,0
+1,Senegal,4,0,0,0,Imported cases only,2
+2,Cameroon,2,1,0,0,Local transmission,0
+3,Nigeria,1,0,0,0,Imported cases only,8
+4,South Africa,1,0,0,0,Imported cases only,1
+5,Togo,1,1,0,0,Imported cases only,0
+6,"Subtotal for all 
+regions",20418,3633,407,78,,
+7,"International 
+conveyance 
+(Diamond Princess)",696,0,6,0,Clusters of cases,1
+8,Grand total,21114,3633,413,78,,
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,,,,,
+,0,1,2,3,4,5,6,7,8,9,10
+0,,,,,,,,,,,
+1,,,,,,,,,,,

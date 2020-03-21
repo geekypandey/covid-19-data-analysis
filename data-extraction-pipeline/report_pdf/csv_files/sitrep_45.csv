@@ -1,0 +1,219 @@
+,0,1,2,3,4,5,6
+0,"Province/  
+Region/  
+City","Population 
+(10,000s)",In last 24 hours,,,Cumulative,
+1,,,"Confirmed 
+cases","Suspected 
+cases",Deaths,"Confirmed 
+cases",Deaths
+2,Hubei,5917,134,67,31,67466,2902
+3,Guangdong,11346,0,0,0,1350,7
+4,Henan,9605,0,0,0,1272,22
+5,Zhejiang,5737,2,1,0,1215,1
+6,Hunan,6899,0,0,0,1018,4
+7,Anhui,6324,0,0,0,990,6
+8,Jiangxi,4648,0,0,0,935,1
+9,Shandong,10047,0,0,0,758,6
+10,Jiangsu,8051,0,0,0,631,0
+11,Chongqing,3102,0,2,0,576,6
+12,Sichuan,8341,1,0,0,539,3
+13,Heilongjiang,3773,1,0,0,481,13
+14,Beijing,2154,1,10,0,418,8
+15,Shanghai,2424,0,17,0,338,3
+16,Hebei,7556,0,0,0,318,6
+17,Fujian,3941,0,0,0,296,1
+18,Guangxi,4926,0,0,0,252,2
+19,Shaanxi,3864,0,0,0,245,1
+20,Yunnan,4830,0,2,0,174,2
+21,Hainan,934,0,1,0,168,5
+22,Guizhou,3600,0,0,0,146,2
+23,Tianjin,1560,0,11,0,136,3
+24,Shanxi,3718,0,0,0,133,0
+25,Liaoning,4359,0,32,0,125,1
+26,Hong Kong SAR,745,4,0,0,104,2
+27,Jilin,2704,0,0,0,93,1
+28,Gansu,2637,0,0,0,91,2
+29,Xinjiang,2487,0,0,0,76,3
+30,Ningxia,688,0,0,0,75,0
+31,Inner Mongolia,2534,0,0,0,75,1
+32,Taipei and environs,2359,0,0,0,42,1
+33,Qinghai,603,0,0,0,18,0
+34,Macao SAR,66,0,0,0,10,0
+35,Xizang,344,0,0,0,1,0
+36,Total,142823,143,143,31,80565,3015
+,0,1,2,3,4,5,6
+0,"Total 
+Total 
+Total 
+Days since 
+Reporting Country/ 
+Total 
+Transmission 
+confirmed* 
+confirmed 
+new 
+last reported 
+Territory/Area 
+deaths 
+classification† 
+cases 
+new cases 
+deaths 
+case",,,,,,
+1,Western Pacific Region,,,,,,
+2,Republic of Korea,5766,438,35,3,Local transmission,0
+3,Japan,317,33,6,0,Local transmission,0
+4,Singapore,110,0,0,0,Local transmission,1
+5,Australia,57,14,2,2,Local transmission,0
+6,Malaysia,50,0,0,0,Local transmission,1
+7,Viet Nam,16,0,0,0,Local transmission,21
+8,Philippines,3,0,1,0,Imported cases only,29
+9,New Zealand,2,0,0,0,Imported cases only,2
+10,Cambodia,1,0,0,0,Imported cases only,37
+11,European Region,,,,,,
+12,Italy,3089,587,107,27,Local transmission,0
+13,France^^,282,73,4,0,Local transmission,0
+14,Germany,262,66,0,0,Local transmission,0
+15,Spain,198,47,1,1,Local transmission,0
+16,"the United 
+Kingdom^^",89,38,0,0,Local transmission,0
+17,Switzerland^^,56,20,0,0,Local transmission,0
+18,Norway,56,23,0,0,Local transmission,0
+19,Netherlands,38,10,0,0,Local transmission,0
+20,Austria,37,13,0,0,Imported cases only,0
+21,Sweden,35,11,0,0,Local transmission,0
+22,Iceland,26,10,0,0,Imported cases only,0
+23,Belgium,23,15,0,0,Local transmission,0
+24,San Marino,16,8,0,0,Local transmission,0
+25,Israel,15,3,0,0,Local transmission,0
+26,Denmark,10,2,0,0,Local transmission,0
+27,Croatia,9,0,0,0,Local transmission,1
+28,Greece,9,2,0,0,Local transmission,0
+29,Finland,7,0,0,0,Local transmission,2
+30,Portugal,7,5,0,0,Local transmission,0
+31,Belarus,6,5,0,0,Local transmission,0
+32,Czechia,5,0,0,0,Imported cases only,1
+33,Romania,4,0,0,0,Local transmission,1
+34,Azerbaijan,3,0,0,0,Imported cases only,4
+35,Georgia,3,0,0,0,Imported cases only,4
+36,Russian Federation,3,0,0,0,Imported cases only,2
+37,"Bosnia and 
+Herzegovina",2,2,0,0,Local transmission,0
+38,Estonia,2,0,0,0,Imported cases only,1
+39,Hungary,2,2,0,0,Imported cases only,0
+40,Ireland,2,0,0,0,Imported cases only,1
+41,Andorra,1,0,0,0,Imported cases only,2
+42,Armenia,1,0,0,0,Imported cases only,3
+43,Latvia,1,0,0,0,Imported cases only,2
+44,Lithuania,1,0,0,0,Imported cases only,6
+45,Luxembourg,1,0,0,0,Imported cases only,3
+46,Monaco,1,0,0,0,Under investigation,4
+,0,1,2,3,4,5,6
+0,North Macedonia,1,0,0,0,Imported cases only,7
+1,Poland,1,0,0,0,Imported cases only,1
+2,Slovenia,1,1,0,0,Imported cases only,0
+3,Ukraine,1,0,0,0,Imported cases only,1
+4,Liechtenstein,1,0,0,0,Imported cases only,1
+5,Territories**,,,,,,
+6,"Gibraltar 
+1 
+0 
+0 
+0 
+Imported cases only 
+1",,,,,,
+7,South-East Asia Region,,,,,,
+8,Thailand,47,4,1,0,Local transmission,0
+9,India,29,23,0,0,Local transmission,0
+10,Indonesia,2,0,0,0,Local transmission,3
+11,Nepal,1,0,0,0,Imported cases only,41
+12,Sri Lanka,1,0,0,0,Imported cases only,38
+13,Eastern Mediterranean Region,,,,,,
+14,"Iran (Islamic 
+Republic of)",2922,586,92,15,Local transmission,0
+15,Kuwait,58,2,0,0,Imported cases only,0
+16,Bahrain,49,0,0,0,Imported cases only,2
+17,Iraq,36,5,2,2,Imported cases only,0
+18,"United Arab 
+Emirates",27,0,0,0,Local transmission,1
+19,Oman,15,3,0,0,Imported cases only,0
+20,Lebanon,13,0,0,0,Local transmission,2
+21,Qatar,8,0,0,0,Imported cases only,1
+22,Pakistan,5,0,0,0,Imported cases only,2
+23,Egypt,2,0,0,0,Imported cases only,3
+24,Morocco,2,1,0,0,Imported cases only,0
+25,Saudi Arabia,2,1,0,0,Imported cases only,0
+26,Afghanistan,1,0,0,0,Imported cases only,9
+27,Jordan,1,0,0,0,Imported cases only,2
+28,Tunisia,1,0,0,0,Imported cases only,2
+29,Territories**,,,,,,
+30,"occupied Palestinian 
+4 
+4 
+0 
+0 
+Imported cases only 
+0 
+territory",,,,,,
+31,Region of the Americas,,,,,,
+32,the United States,129,21,9,3,Local transmission,0
+33,Canada,30,0,0,0,Local transmission,1
+34,Ecuador,7,0,0,0,Local transmission,1
+35,Mexico,5,0,0,0,Imported cases only,3
+36,Brazil,3,1,0,0,Imported cases only,0
+37,Argentina,1,0,0,0,Imported cases only,1
+38,Chile,1,0,0,0,Imported cases only,1
+39,Dominican Republic,1,0,0,0,Imported cases only,3
+40,Territories**,,,,,,
+41,"Saint Martin 
+2 
+0 
+0 
+0 
+Under investigation 
+2",,,,,,
+42,"Saint Barthélemy 
+1 
+0 
+0 
+0 
+Under investigation 
+2",,,,,,
+43,African Region,,,,,,
+44,Algeria,12,7,0,0,Local transmission,0
+45,Senegal,4,3,0,0,Imported cases only,0
+46,Nigeria,1,0,0,0,Imported cases only,6
+47,"Subtotal for all 
+regions",14053,2089,260,53,,
+48,International,706,0,6,0,Local transmission,3
+,0,1,2,3,4,5,6,7,8
+0,,,,,,,,,
+,0,1,2,3,4,5,6,7,8,9
+0,,,,,,,,,,
+1,,,,,,,,,,
+,0
+0,"W
+  *
+STRATEGIC OBJECTIVES 
+HO’s strategic objectives for this response are to: 
+ 
+• 
+Interrupt human-to-human transmission including reducing secondary infections among close contacts 
+and health care workers, preventing transmission amplification events, and preventing further 
+international spread*;  
+• 
+Identify, isolate and care for patients early, including providing optimized care for infected patients; 
+• 
+Identify and reduce transmission from the animal source; 
+• 
+Address crucial unknowns regarding clinical severity, extent of transmission and infection, treatment 
+options, and accelerate the development of diagnostics, therapeutics and vaccines; 
+• 
+Communicate critical risk and event information to all communities and counter misinformation; 
+• 
+Minimize social and economic impact through multisectoral partnerships. 
+This can be achieved through a combination of public health measures, such as rapid identification, diagnosis 
+and management of the cases, identification and follow up of the contacts, infection prevention and control in 
+health care settings, implementation of health measures for travelers, awareness-raising in the population and 
+risk communication."
